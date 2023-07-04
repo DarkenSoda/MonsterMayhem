@@ -1,6 +1,6 @@
-# Monster Mayhem
+# Monster Showdown
 
-Monster Mayhem is a game project developed for learning purposes. It features engaging combat, unique abilities, and a challenging level with fearsome enemies.
+Monster Showdown is a game project developed for learning purposes. It features engaging combat, unique abilities, and a challenging level with fearsome enemies.
 
 ## Game Mechanics
 
