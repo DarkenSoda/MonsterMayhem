@@ -2,6 +2,8 @@
 
 Monster Showdown is a game project developed for learning purposes. It features engaging combat, unique abilities, and a challenging level with fearsome enemies.
 
+This is only the source code for all the C# scripts that I wrote, including the character controller, enemy AI, animation scripts, combat and abilities.
+
 ## Game Mechanics
 
 - Engaging Combat: Step into the shoes of a brave hero and engage in combat with various monstrous creatures.
